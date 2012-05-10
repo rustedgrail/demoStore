@@ -1,0 +1,8 @@
+{
+    "name": "zombieBrowser"
+    , "version": "0.1.0"
+    , "dependencies": {
+        "coffee-script": "*"
+        , "zombie": "*"
+    }
+}
